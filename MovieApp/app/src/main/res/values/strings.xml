@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title_activity_movies">MoviesActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity liberadas</string>
+
+    <string name="act_movies_lbl_popular_movies">Popular Movies</string>
+    <string name="act_movies_lbl_favorite_movies">My Favorite Movies</string>
+
+    <string name="frag_movilist_lbl_no_favorites">Looks like you don\'t have favorites</string>
+    <string name="frag_movilist_lbl_no_connection">Cannot connect to the server. \nPlease try again later...</string>
+
+</resources>
